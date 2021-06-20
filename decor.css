@@ -1,9 +1,10 @@
 h1{
    text-align: center;
-    color: blueviolet;
+    color: rgb(173, 122, 221);
     font-size: 50px;
-    font-family: cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;;
     padding: 10px, 10px, ;
+    font-style: oblique;
     border: 10px, black, solid;
     b
 
@@ -19,16 +20,26 @@ body{
     background-color: white;
     border-radius: 10px;
     border-color: plum;
-    padding:30px;
+    border-style: dashed;
+    padding:20px;
     font-size: large;
-    margin:70px;
+    margin:10px, 70px, 70px, 10px ;
     cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
     
 } 
 #box{ 
 
  text-align: center;
+ margin-bottom: 70px;
 
-
+}
+#message{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    padding:30px;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
 }
