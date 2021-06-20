@@ -1,12 +1,12 @@
 h1{
    text-align: center;
-    color: rgb(173, 122, 221);
+    color: rgb(247, 151, 218);
     font-size: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;;
-    padding: 10px, 10px, ;
+    
     font-style: oblique;
-    border: 10px, black, solid;
-    b
+    
+    
 
 }
 body{
@@ -42,4 +42,8 @@ body{
     padding:30px;
     font-size: 50px;
     font-family:'Courier New', Courier, monospace;
+    background-image:url( bk2.jpeg);
+    /* background-repeat: ; */
+    
+
 }
