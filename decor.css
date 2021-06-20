@@ -1,0 +1,34 @@
+h1{
+   text-align: center;
+    color: blueviolet;
+    font-size: 50px;
+    font-family: cursive;
+    padding: 10px, 10px, ;
+    border: 10px, black, solid;
+    b
+
+}
+body{
+    padding:  20px;
+    margin: 50px;
+}
+ button{
+    position: center;
+    text-align: center;
+    color: plum;
+    background-color: white;
+    border-radius: 10px;
+    border-color: plum;
+    padding:30px;
+    font-size: large;
+    margin:70px;
+    cursor: pointer;
+
+    
+} 
+#box{ 
+
+ text-align: center;
+
+
+}
