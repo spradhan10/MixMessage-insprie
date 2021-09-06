@@ -35,15 +35,18 @@ body{
  margin-bottom: 70px;
 
 }
-#message{
+#message {
     border-style: solid;
     border-radius: 10px;
     border-color: black;
-    padding:30px;
+    padding: 70px;
     font-size: 50px;
-    font-family:'Courier New', Courier, monospace;
-    background-image:url( bk2.jpeg);
+    font-family: 'Courier New', Courier, monospace;
+    /* background-position: center center;
+    background-size: cover; */
+    height: 550px;
+    background-image: url( bk2.jpeg);
+    text-align:center;
+    color: black;
     /* background-repeat: ; */
-    
-
 }
